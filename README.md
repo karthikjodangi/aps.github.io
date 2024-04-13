@@ -32,3 +32,10 @@ This page hosts:
 8. Content monetization.
 9. Content Delivery Network.
 10. Social Integration.
+
+### 2. Functionalities that are not widely implemented and can improve the domain.
+1. 
+2.
+3.
+4.
+5.

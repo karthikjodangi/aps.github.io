@@ -34,7 +34,20 @@ This page hosts:
 10. Social Integration.
 
 ### 2. Functionalities that are not widely implemented and can improve the domain.
-1. 
-2.
-3.
-4.
+1. Content Discovery tools.
+   * Advanced filtering options
+   * Personilzed playlists
+   * Mood-based recommendations
+   <!-- * Collaborative filtering technique -->
+2. Measures against piracy and unauthorized access.
+3. AR and VR technologies.
+4. Social Viewing Experiences.
+   * Watch content together remotely (Virtual watch parties)
+   * Chat in real time
+5. Personalized advertising.
+6. Integration with smart home devices.
+7. Content localization.
+   * Broader range of languages.
+   * Subtitles and dubbing options using AI.
+9. Interactive content: Quizes,polls etc
+

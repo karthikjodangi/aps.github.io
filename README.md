@@ -123,21 +123,6 @@ OTT platforms have significantly transformed the content consumption landscape. 
     - **Challenge:** Enhancing user engagement through interactive features.
     - **Algorithm:** Event-driven programming for real-time interactions.
     - **Design:** Features like quizzes and polls integrated into content.
-<!--
-## 📈 Performance Analysis
 
-### Algorithm Complexity
-
-- **Advanced Filtering Options:** O(N log N) for sorting, O(1) for querying.
-- **Personalized Playlists:** O(N^2) for training, O(N) for prediction.
-- **Mood-Based Recommendations:** O(N) for sentiment processing.
-- **Measures Against Piracy:** O(N) for encryption/decryption.
-- **AR and VR Technologies:** O(N^2) to O(N^3) for 3D rendering.
-- **Social Viewing Experiences:** O(N) for synchronization.
-- **Personalized Advertising:** O(N log N) for training, O(1) for prediction.
-- **Integration with Smart Home Devices:** O(1) for communication.
-- **Content Localization:** O(N) per sentence for NLP.
-- **Interactive Content:** O(1) for event handling.
--->
 ## 📚 References
 

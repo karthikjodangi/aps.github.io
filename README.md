@@ -1,6 +1,6 @@
 # Algorithmic Problem Solving Portfolio
 
-![Header Image]([https://your-image-url.com/header.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apptweak.com%2Fen%2Faso-blog%2Fmost-downloaded-ott-streaming-apps&psig=AOvVaw2xX8qJrNE8gVUHv0u3oFgz&ust=1718686215217000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiRypzr4YYDFQAAAAAdAAAAABB8)) <!-- Replace with your header image URL -->
+![Header Image](header.png) <!-- Replace with your header image URL -->
 
 ## 📘 Course Information
 

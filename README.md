@@ -1,6 +1,6 @@
 # Algorithmic Problem Solving Portfolio
 
-![Header Image](header.png) <!-- Replace with your header image URL -->
+![Header Image](header.png)
 
 ## 📘 Course Information
 
@@ -121,76 +121,7 @@ OTT platforms have significantly transformed the content consumption landscape. 
 
 10. **Interactive Content**
     - **Challenge:** Enhancing user engagement through interactive features.
-    - **Algorithm:** Event-driven programming for real-time interactions.# Algorithmic Problem Solving Portfolio
-
-## Course Information
-
-- **Course Name:** Algorithmic Problem Solving
-- **Course Code:** 23ECSE309
-- **Name:** Karthik Jodangi
-- **University:** KLE Technological University, Hubballi-31
-
-## Overview
-
-This portfolio explores the functionalities of Over-The-Top (OTT) platforms, analyzing existing features and proposing new functionalities to enhance user experience and operational efficiency. The document covers market analysis, business use cases, potential challenges, suitable algorithms, and performance analysis.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Business Cases](#business-cases)
-   - [Existing Functionalities](#existing-functionalities)
-   - [Proposed Functionalities](#proposed-functionalities)
-   - [Detailed Business Use Cases](#detailed-business-use-cases)
-3. [Performance Analysis](#performance-analysis)
-4. [Presentation](#presentation)
-5. [References](#references)
-
-## Introduction
-
-### Market Analysis
-
-OTT platforms have significantly transformed the content consumption landscape. The global OTT market, valued at USD 121.61 billion in 2021, is projected to grow at a CAGR of 29.4% from 2022 to 2030. Major players include Netflix, Amazon Prime Video, Hulu, and Disney+. The growth is driven by increasing internet penetration and the adoption of smart devices.
-
-### Objectives
-
-- Identify and analyze existing OTT platform functionalities.
-- Propose new functionalities to enhance the domain.
-- Explore business use cases, challenges, and benefits.
-- Suggest suitable algorithms and design techniques.
-
-## Business Cases
-
-### Existing Functionalities
-
-1. Content Streaming
-2. Personalized Recommendations
-3. Multiple Device Compatibility
-4. Offline Viewing
-5. Content Categorization
-6. User Profiles
-7. Content Licensing and Rights Management
-8. Content Monetization
-9. Content Delivery Network
-10. Social Integration
-
-### Proposed Functionalities
-
-1. Content Discovery Tools
-   - Advanced Filtering Options
-   - Personalized Playlists
-   - Mood-Based Recommendations
-2. Measures Against Piracy and Unauthorized Access
-3. AR and VR Technologies
-4. Social Viewing Experiences
-   - Virtual Watch Parties
-   - Real-time Chat
-5. Personalized Advertising
-6. Integration with Smart Home Devices
-7. Content Localization
-   - Volume Adjustment for BGM, Voice, and Songs
-   - Multi-language Support
-   - AI-generated Subtitles and Dubbing
-
+    - **Algorithm:** Event-driven programming for real-time interactions.
     - **Design:** Features like quizzes and polls integrated into content.
 <!--
 ## 📈 Performance Analysis
@@ -208,5 +139,5 @@ OTT platforms have significantly transformed the content consumption landscape. 
 - **Content Localization:** O(N) per sentence for NLP.
 - **Interactive Content:** O(1) for event handling.
 -->
-
 ## 📚 References
+

@@ -76,38 +76,45 @@ OTT platforms have significantly transformed the content consumption landscape. 
 
 1. **Advanced Filtering Options**
    - **Challenge:** Efficiently filtering a large dataset of content.
-   - **Algorithm:** Inverted indexing and TF-IDF.
-   - **Design:** Multi-filter search bar.
+   - **Algorithm:** Trie Data Structure.
+   - **Use Case:** Autocomplete search, keyword-based filtering.
+   - **Description:** A Trie is a tree-like data structure used to store a dynamic set of strings where keys are usually strings. It is useful for search and filter functionalities where prefix matching is needed.
+   - Find the sample code [here](https://gist.github.com/calmhandtitan/7872405)
+
 
 2. **Personalized Playlists**
    - **Challenge:** Creating playlists based on user preferences.
-   - **Algorithm:** Collaborative or content-based filtering.
-   - **Design:** Dynamic recommendation engine.
+   - **Algorithm:** Collaborative filtering.
+   - **Description:** Collaborative Filtering algorithms, such as user-based or item-based approaches, are well-suited for recommending playlists based on similarities between users or between playlists themselves.
+   - Find the sample code [here](https://github.com/asif536/Movie-Recommender-System)
 
 3. **Mood-Based Recommendations**
    - **Challenge:** Accurately identifying user mood.
    - **Algorithm:** Sentiment analysis using NLP techniques.
-   - **Design:** Integration with user interaction data.
-
+   - **Description:** Utilizing sentiment analysis techniques to analyze user reviews, comments, or social media interactions related to content can provide insights into mood and preferences.
+   - Find the sample code [here](https://github.com/SkyThonk/Movie-Reviews-Sentiment-Analysis)
+     
 4. **Measures Against Piracy**
    - **Challenge:** Preventing unauthorized access and distribution.
    - **Algorithm:** Watermarking and encryption.
-   - **Design:** DRM solutions.
+   - **Description:** Strong encryption algorithms like AES (Advanced Encryption Standard) to protect the content itself from being accessed without authorization. This can prevent unauthorized reading or modification of the content.
+   - Find the sample code [here](https://github.com/gabrielmbmb/aes)
 
 5. **AR and VR Technologies**
    - **Challenge:** Creating immersive content experiences.
    - **Algorithm:** 3D rendering and real-time processing.
-   - **Design:** VR apps compatible with OTT platforms.
+   - **description:** Rasterization: Commonly used for real-time rendering in VR and AR applications. It involves converting 3D objects into 2D images suitable for display.
+   Ray Tracing: Provides more realistic lighting and shadows by tracing the path of light rays through a scene. Though computationally intensive, it's increasingly feasible in real-time applications with advancements in hardware.
 
 6. **Social Viewing Experiences**
    - **Challenge:** Synchronizing content playback for multiple users.
-   - **Algorithm:** Network synchronization protocols.
-   - **Design:** Virtual watch party feature.
+   - **Description:** Synchronizing content playback for multiple users in social viewing experiences on OTT platforms requires efficient management of real-time data synchronization and coordination. Algorithms such as vector clocks are essential for tracking event causality across distributed systems, ensuring that playback remains synchronized based on logical order. Data structures like priority queues and circular buffers play crucial roles in managing event sequences and timestamps to facilitate synchronized content delivery. Consensus algorithms such as Paxos or Raft are utilized to achieve agreement on playback states among viewers, which is vital for maintaining synchronization. Networking protocols like UDP and RTSP handle real-time data transmission and session control, while distributed structures like DHTs and distributed queues support distributed storage and retrieval of playback metadata. Concurrency control mechanisms such as mutexes and semaphores ensure orderly updates of playback states and user interactions, collectively ensuring a seamless social viewing experience on OTT platforms.
 
 7. **Personalized Advertising**
    - **Challenge:** Targeting ads effectively without intruding on user experience.
-   - **Algorithm:** Machine learning algorithms for ad targeting.
-   - **Design:** Dynamic ad placement.
+   - **Algorithm:** Machine learning algorithms.
+   - **Description:** Decision Trees and Random Forests: Can predict user preferences based on demographic data, viewing history, and contextual information.
+   - Find the sample code [here](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest)
 
 8. **Integration with Smart Home Devices**
    - **Challenge:** Seamlessly connecting with smart home ecosystems.

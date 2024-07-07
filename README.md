@@ -16,12 +16,12 @@ This portfolio explores the functionalities of Over-The-Top (OTT) platforms, ana
 ## 📑 Table of Contents
 
 1. [Introduction](#introduction)
-2. [💼 Business Cases](#business-cases)
+2. [Business Cases](#business-cases)
    - [Existing Functionalities](#existing-functionalities)
    - [Proposed Functionalities](#proposed-functionalities)
    - [Detailed Business Use Cases](#detailed-business-use-cases)
-3. [📊 Performance Analysis](#performance-analysis)
-4. [📚 References](#references)
+3. [Performance Analysis](#performance-analysis)
+4. [References](#references)
 
 ## Introduction
 
@@ -44,7 +44,7 @@ OTT platforms have significantly transformed the content consumption landscape. 
 - Explore business use cases, challenges, and benefits.
 - Suggest suitable algorithms and design techniques.
 
-## 💼 Business Cases
+## Business Cases
 
 ### Existing Functionalities
 
@@ -171,7 +171,7 @@ OTT platforms have significantly transformed the content consumption landscape. 
     - **Algorithm:** Time series analysis, predictive modeling.
     - **Description:** Analyzing historical viewer data and market trends to predict popular content genres and optimize content acquisition and scheduling.
 
-## 📊 Performance Analysis
+## Performance Analysis
 
 ### Advanced Filtering Options
 
@@ -310,7 +310,7 @@ OTT platforms have significantly transformed the content consumption landscape. 
 - **Space Complexity:** 
   - Depends on the size of historical data and model parameters.
 
-## 📚 References
+## References
 
 1. "Streaming Media" Website, [link](https://www.streamingmedia.com/).
 2. "What is OTT (Over-The-Top) and How Does it Relate to Apps?" Article, [link](https://clevertap.com/blog/ott/).

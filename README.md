@@ -21,8 +21,7 @@ This portfolio explores the functionalities of Over-The-Top (OTT) platforms, ana
    - [Proposed Functionalities](#proposed-functionalities)
    - [Detailed Business Use Cases](#detailed-business-use-cases)
 3. [Performance Analysis](#performance-analysis)
-4. [Presentation](#presentation)
-5. [References](#references)
+4. [References](#references)
 
 ## 📊 Introduction
 
@@ -106,30 +105,43 @@ OTT platforms have significantly transformed the content consumption landscape. 
    - **description:** Rasterization: Commonly used for real-time rendering in VR and AR applications. It involves converting 3D objects into 2D images suitable for display.
    Ray Tracing: Provides more realistic lighting and shadows by tracing the path of light rays through a scene. Though computationally intensive, it's increasingly feasible in real-time applications with advancements in hardware.
 
-6. **Social Viewing Experiences**
+6. **Virtual watch parties**
    - **Challenge:** Synchronizing content playback for multiple users.
-   - **Description:** Synchronizing content playback for multiple users in social viewing experiences on OTT platforms requires efficient management of real-time data synchronization and coordination. Algorithms such as vector clocks are essential for tracking event causality across distributed systems, ensuring that playback remains synchronized based on logical order. Data structures like priority queues and circular buffers play crucial roles in managing event sequences and timestamps to facilitate synchronized content delivery. Consensus algorithms such as Paxos or Raft are utilized to achieve agreement on playback states among viewers, which is vital for maintaining synchronization. Networking protocols like UDP and RTSP handle real-time data transmission and session control, while distributed structures like DHTs and distributed queues support distributed storage and retrieval of playback metadata. Concurrency control mechanisms such as mutexes and semaphores ensure orderly updates of playback states and user interactions, collectively ensuring a seamless social viewing experience on OTT platforms.
+   - **Description:** Virtual watch parties in OTT platforms utilize synchronization algorithms like vector clocks and consensus algorithms, data structures such as distributed hash tables, and streaming protocols like WebRTC. These ensure real-time communication, playback synchronization, and efficient session management, providing a seamless, synchronized viewing experience for all participants.
 
-7. **Personalized Advertising**
+7. **Real-time Chat**
+   - **Challenge:** Seamless user interaction.
+   - **Description:** Real-time chat in OTT platforms employs message queues for orderly message delivery, the pub/sub pattern facilitated by hash maps for efficient message broadcasting, and WebSockets to maintain persistent, low-latency communication channels between clients and servers. These technologies ensure responsive and scalable real-time chat experiences, integral to enhancing user interaction during virtual events and streaming sessions.
+
+8. **Personalized Advertising**
    - **Challenge:** Targeting ads effectively without intruding on user experience.
    - **Algorithm:** Machine learning algorithms.
    - **Description:** Decision Trees and Random Forests: Can predict user preferences based on demographic data, viewing history, and contextual information.
    - Find the sample code [here](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest)
 
-8. **Integration with Smart Home Devices**
+9. **Integration with Smart Home Devices**
    - **Challenge:** Seamlessly connecting with smart home ecosystems.
-   - **Algorithm:** IoT protocols and standards.
-   - **Design:** Voice command integration.
+   - **Algorithm:** MQTT (Message Queuing Telemetry Transport)
+   - **Description:** MQTT (Message Queuing Telemetry Transport): This lightweight messaging protocol is ideal for IoT (Internet of Things) environments. It ensures efficient, reliable communication between OTT platforms and smart home devices, supporting real-time updates and commands while optimizing bandwidth and battery life.
+   - Find the sample code [here](https://github.com/dotnet/MQTTnet)
+     
+10. **Volume Adjustment**
+   - **Challenge:** Segregated audio for BGM, voice and songs.
+   - **Description:** Algorithms such as Finite Impulse Response (FIR) filters and dynamic range compression are utilized for adjusting volume levels independently for background music (BGM), voice, and songs. These algorithms operate on data structures like arrays or linked lists to manage and process audio samples effectively. Real-time audio processing techniques, including digital signal processing (DSP) and multithreading, ensure seamless integration and dynamic adjustment of audio levels, enhancing the user experience by maintaining clear audio separation and consistent sound quality across various media streams.
 
-9. **Content Localization**
-   - **Challenge:** Adapting content for various languages and regions.
-   - **Algorithm:** NLP for translation and dubbing.
-   - **Design:** Multi-language support with AI-generated subtitles.
+11. **Multi-language Support**
+    - **Challenge:** Availability of different languages for the same viewing content.
+    - **Description:** To enable multi-language support in OTT platforms, algorithms like hash tables for efficient storage and retrieval of language-specific content, along with trie data structures for fast text search, are employed. Language detection utilizes n-gram models and statistical methods to identify and switch between languages dynamically. Content localization techniques, such as resource bundles and dynamic loading, ensure seamless presentation of localized content based on user preferences, enhancing accessibility and user engagement across diverse linguistic audiences on streaming platforms.
 
-10. **Interactive Content**
+12. **AI-generated Subtitles and Dubbing**
+    - **Challenge:** Real-time automated dubbing and subtitles feature.
+    - **Description:** To automate AI-generated subtitles and dubbing in OTT platforms, algorithms like sequence alignment (e.g., Needleman-Wunsch), tokenization, and parsing are employed for accurate synchronization and linguistic analysis. Machine learning models such as sequence-to-sequence (Seq2Seq) and speech recognition algorithms facilitate real-time translation and transcription tasks. Data structures like hash maps support efficient storage and retrieval of textual data, enabling seamless integration of AI-driven technologies for multilingual content accessibility and enhanced viewer engagement on streaming platforms.
+    - Find sample code for Needleman-Wunsh [here](https://github.com/blievrouw/needleman-wunsch)
+    - Find sample code for Seq2Seq model [here](https://github.com/google/seq2seq)
+
+12. **Interactive Content**
     - **Challenge:** Enhancing user engagement through interactive features.
-    - **Algorithm:** Event-driven programming for real-time interactions.
-    - **Design:** Features like quizzes and polls integrated into content.
+    - **Description:** To enable interactive content such as quizzes and polls in OTT platforms, algorithms like hash tables and HashMaps are essential for efficient storage and retrieval of questions, options, and user responses. Graph algorithms play a role in generating interactive pathways and ensuring logical consistency within quizzes, while real-time data processing algorithms handle dynamic user inputs and concurrency control to maintain data integrity during simultaneous interactions. Implementing these data structures and algorithms facilitates seamless integration of interactive features, enhancing user engagement and interaction on OTT platforms through responsive and engaging content experiences.
 
 ## 📚 References
 

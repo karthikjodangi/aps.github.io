@@ -78,6 +78,8 @@ OTT platforms have significantly transformed the content consumption landscape. 
    - AI-generated Subtitles and Dubbing
 8. 📊 Interactive Content
    - Quizzes, Polls, etc.
+9. Advanced Content Management
+    - Content Recommendation Engine, Dynamic Content Adaptation, Predictive Content Analytics
 
 ### Detailed Business Use Cases
 
@@ -85,21 +87,25 @@ OTT platforms have significantly transformed the content consumption landscape. 
    - **Challenge:** Efficiently filtering a large dataset of content.
    - **Algorithm:** Trie Data Structure.
    - **Description:** A Trie is a tree-like data structure used to store a dynamic set of strings where keys are usually strings. It is useful for search and filter functionalities where prefix matching is needed.
+   - Find the sample code [here](https://gist.github.com/calmhandtitan/7872405)
 
 2. **Personalized Playlists**
    - **Challenge:** Creating playlists based on user preferences.
    - **Algorithm:** Collaborative Filtering.
    - **Description:** Collaborative Filtering algorithms, such as user-based or item-based approaches, are well-suited for recommending playlists based on similarities between users or between playlists themselves.
+   - Find the sample code [here](https://github.com/asif536/Movie-Recommender-System)
 
 3. **Mood-Based Recommendations**
    - **Challenge:** Accurately identifying user mood.
    - **Algorithm:** Sentiment analysis using NLP techniques.
    - **Description:** Utilizing sentiment analysis techniques to analyze user reviews, comments, or social media interactions related to content can provide insights into mood and preferences.
+   - Find the sample code [here](https://github.com/SkyThonk/Movie-Reviews-Sentiment-Analysis)
 
 4. **Measures Against Piracy**
    - **Challenge:** Preventing unauthorized access and distribution.
    - **Algorithm:** Watermarking and encryption.
    - **Description:** Strong encryption algorithms like AES (Advanced Encryption Standard) to protect the content itself from being accessed without authorization.
+   - Find the sample code [here](https://github.com/gabrielmbmb/aes)
 
 5. **AR and VR Technologies**
    - **Challenge:** Creating immersive content experiences.
@@ -120,11 +126,13 @@ OTT platforms have significantly transformed the content consumption landscape. 
    - **Challenge:** Targeting ads effectively without intruding on user experience.
    - **Algorithm:** Machine learning algorithms.
    - **Description:** Decision Trees and Random Forests predict user preferences based on demographic data and viewing history.
+   - Find the sample code [here](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest)
 
 9. **Integration with Smart Home Devices**
    - **Challenge:** Seamlessly connecting with smart home ecosystems.
    - **Algorithm:** MQTT (Message Queuing Telemetry Transport).
    - **Description:** Efficient, reliable communication between OTT platforms and smart home devices.
+   - Find the sample code [here](https://github.com/dotnet/MQTTnet)
 
 10. **Volume Adjustment**
     - **Challenge:** Segregated audio for BGM, voice, and songs.
@@ -140,6 +148,8 @@ OTT platforms have significantly transformed the content consumption landscape. 
     - **Challenge:** Real-time automated dubbing and subtitles feature.
     - **Algorithm:** Sequence alignment (e.g., Needleman-Wunsch), machine learning models (e.g., Seq2Seq).
     - **Description:** Automate subtitles and dubbing tasks for multilingual content accessibility.
+    - Find sample code for Needleman-Wunsh [here](https://github.com/blievrouw/needleman-wunsch)
+    - Find sample code for Seq2Seq model [here](https://github.com/google/seq2seq)
 
 13. **Interactive Content**
     - **Challenge:** Enhancing user engagement through interactive features.

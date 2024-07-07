@@ -15,7 +15,7 @@ This portfolio explores the functionalities of Over-The-Top (OTT) platforms, ana
 
 ## 📑 Table of Contents
 
-1. [📊 Introduction](#introduction)
+1. [Introduction](#introduction)
 2. [💼 Business Cases](#business-cases)
    - [Existing Functionalities](#existing-functionalities)
    - [Proposed Functionalities](#proposed-functionalities)
@@ -23,7 +23,7 @@ This portfolio explores the functionalities of Over-The-Top (OTT) platforms, ana
 3. [📊 Performance Analysis](#performance-analysis)
 4. [📚 References](#references)
 
-## 📊 Introduction
+## Introduction
 
 Over-The-Top (OTT) platforms have revolutionized how we access and enjoy media content in the digital age. Services like Netflix, Amazon Prime Video, and Disney+ deliver a vast array of movies, series, and original programming directly to viewers over the internet, circumventing traditional broadcast methods. At the heart of these platforms lie sophisticated algorithms that drive personalized user experiences and operational efficiency.
 

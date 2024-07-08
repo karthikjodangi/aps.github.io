@@ -326,9 +326,17 @@ OTT platforms have significantly transformed the content consumption landscape. 
 ## References
 
 [1] "Streaming Media" Website, [https://www.streamingmedia.com/](https://www.streamingmedia.com/).
+
 [2] "What is OTT (Over-The-Top) and How Does it Relate to Apps?" Article, [https://clevertap.com/blog/ott/](https://clevertap.com/blog/ott/).
+
 [3] "The Netflix Recommender System: Algorithms, Business Value, and Innovation" Paper, [https://dl.acm.org/doi/pdf/10.1145/2843948](https://dl.acm.org/doi/pdf/10.1145/2843948)
+
 [4] "OPEN SOURCE OTT PLATFORM" Article, [https://nexttv.github.io/](https://nexttv.github.io/)
+
 [5] "Live Event Streaming Solution" Website, [https://www.dacast.com/live-event-streaming](https://www.dacast.com/live-event-streaming/)
+
 [6] "How Streaming Services use Algorithms" Article [https://amt-lab.org/blog/2021/8/algorithms-in-streaming-services](https://amt-lab.org/blog/2021/8/algorithms-in-streaming-services)
+
 [7] "Netflix Recommendations: Beyond the 5 stars" [https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429)
+
+

@@ -1,6 +1,6 @@
 <!-- # Algorithmic Problem Solving Portfolio -->
 
-![Header Image](header.png)
+![Header Image](Images/header.png)
 
 ## 📘 Course Information
 
@@ -90,83 +90,96 @@ OTT platforms have significantly transformed the content consumption landscape. 
    - Find the sample code [here](https://gist.github.com/calmhandtitan/7872405)
 
 2. **Personalized Playlists**
+
+   ![collab](Images/collab.png)
    - **Challenge:** Creating playlists based on user preferences.
    - **Algorithm:** Collaborative Filtering.
    - **Description:** Collaborative Filtering algorithms, such as user-based or item-based approaches, are well-suited for recommending playlists based on similarities between users or between playlists themselves.
    - Find the sample code [here](https://github.com/asif536/Movie-Recommender-System)
 
-3. **Mood-Based Recommendations**
+4. **Mood-Based Recommendations**
    - **Challenge:** Accurately identifying user mood.
    - **Algorithm:** Sentiment analysis using NLP techniques.
    - **Description:** Utilizing sentiment analysis techniques to analyze user reviews, comments, or social media interactions related to content can provide insights into mood and preferences.
    - Find the sample code [here](https://github.com/SkyThonk/Movie-Reviews-Sentiment-Analysis)
 
-4. **Measures Against Piracy**
+5. **Measures Against Piracy**
    - **Challenge:** Preventing unauthorized access and distribution.
    - **Algorithm:** Watermarking and encryption.
    - **Description:** Strong encryption algorithms like AES (Advanced Encryption Standard) to protect the content itself from being accessed without authorization.
    - Find the sample code [here](https://github.com/gabrielmbmb/aes)
 
-5. **AR and VR Technologies**
+6. **AR and VR Technologies**
+   
+   ![AR-VR](Images/ar-vr.jpg)
+   
    - **Challenge:** Creating immersive content experiences.
    - **Algorithm:** 3D rendering and real-time processing.
    - **Description:** Rasterization: Commonly used for real-time rendering in VR and AR applications. Ray Tracing: Provides more realistic lighting and shadows.
 
-6. **Virtual Watch Parties**
+7. **Virtual Watch Parties**
+
+   ![watch](Images/watch-party.jpg)
    - **Challenge:** Synchronizing content playback for multiple users.
    - **Algorithm:** Vector clocks and consensus algorithms.
    - **Description:** Ensure real-time communication, playback synchronization, and efficient session management.
 
-7. **Real-time Chat**
+9. **Real-time Chat**
    - **Challenge:** Seamless user interaction.
    - **Algorithm:** Message queues, pub/sub pattern, WebSockets.
    - **Description:** Facilitate responsive and scalable real-time chat experiences.
 
-8. **Personalized Advertising**
+10. **Personalized Advertising**
    - **Challenge:** Targeting ads effectively without intruding on user experience.
    - **Algorithm:** Machine learning algorithms.
    - **Description:** Decision Trees and Random Forests predict user preferences based on demographic data and viewing history.
    - Find the sample code [here](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest)
 
-9. **Integration with Smart Home Devices**
+11. **Integration with Smart Home Devices**
    - **Challenge:** Seamlessly connecting with smart home ecosystems.
    - **Algorithm:** MQTT (Message Queuing Telemetry Transport).
    - **Description:** Efficient, reliable communication between OTT platforms and smart home devices.
    - Find the sample code [here](https://github.com/dotnet/MQTTnet)
 
-10. **Volume Adjustment**
+11. **Volume Adjustment**
     - **Challenge:** Segregated audio for BGM, voice, and songs.
     - **Algorithm:** Finite Impulse Response (FIR) filters, dynamic range compression.
     - **Description:** Adjust volume levels independently for background music (BGM), voice, and songs.
 
-11. **Multi-language Support**
+12. **Multi-language Support**
+
+    ![Lang](Images/multi-lang.png)
+    
     - **Challenge:** Availability of different languages for the same viewing content.
     - **Algorithm:** Hash tables, trie data structures, N-gram language models.
     - **Description:** Detect and switch between languages dynamically, presenting localized content based on user preferences.
 
-12. **AI-generated Subtitles and Dubbing**
+14. **AI-generated Subtitles and Dubbing**
     - **Challenge:** Real-time automated dubbing and subtitles feature.
     - **Algorithm:** Sequence alignment (e.g., Needleman-Wunsch), machine learning models (e.g., Seq2Seq).
     - **Description:** Automate subtitles and dubbing tasks for multilingual content accessibility.
     - Find sample code for Needleman-Wunsh [here](https://github.com/blievrouw/needleman-wunsch)
     - Find sample code for Seq2Seq model [here](https://github.com/google/seq2seq)
 
-13. **Interactive Content**
+15. **Interactive Content**
+
+    ![Quizz Image](Images/quizz.jpg)
+    
     - **Challenge:** Enhancing user engagement through interactive features.
     - **Algorithm:** Hash tables, graph algorithms, real-time data processing.
     - **Description:** Implement quizzes, polls, and interactive pathways for engaging user experiences.
 
-14. **Content Recommendation Engine**
+16. **Content Recommendation Engine**
     - **Challenge:** Enhancing the accuracy of content recommendations.
     - **Algorithm:** Machine learning algorithms (e.g., collaborative filtering, neural networks).
     - **Description:** Leveraging user behavior data and content metadata to personalize recommendations, improving user engagement and retention.
 
-15. **Dynamic Content Adaptation**
+17. **Dynamic Content Adaptation**
     - **Challenge:** Optimizing content delivery across varying network conditions.
     - **Algorithm:** Adaptive bitrate streaming algorithms (e.g., MPEG-DASH, HLS).
     - **Description:** Adjusting video quality dynamically based on available bandwidth and device capabilities to ensure smooth playback and minimize buffering.
 
-16. **Predictive Content Analytics**
+18. **Predictive Content Analytics**
     - **Challenge:** Forecasting viewer preferences and content trends.
     - **Algorithm:** Time series analysis, predictive modeling.
     - **Description:** Analyzing historical viewer data and market trends to predict popular content genres and optimize content acquisition and scheduling.
